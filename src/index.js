@@ -3,6 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.css';
+//import Counter from './components/counterComponent';
+//import Counters from './components/counters';
+//import TestCom from './components/test';
+//import Counterr from './components/counter';
 
 ReactDOM.render(
   <React.StrictMode>
